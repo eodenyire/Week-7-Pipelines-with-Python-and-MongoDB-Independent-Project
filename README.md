@@ -1,6 +1,7 @@
 # Week-7-Pipelines-with-Python-and-MongoDB-Independent-Project
 
 Telecommunications Fraud Detection using MongoDB and Python
+
 This project aims to build a data pipeline with MongoDB and Python that can help detect fraudulent activities in telecommunications companies, such as unauthorized use of premium services or fake billing. The pipeline will extract data from billing systems, call logs, and other sources, transform the data to identify patterns or anomalies, and store it in MongoDB for further analysis.
 
 Project Deliverables:-
